@@ -1,10 +1,3 @@
-#link para site - https://consulta-empresa.netlify.app/
-#XPATH = //tag[@atributo='valor']
-#1= entrar no site
-#2- fazer o login (clicar no campo usuario, digitar o usuario, clicar no campo senha, digitar a senha, e clicar em entrar.
-#3- fazer o download dos pdfs das empresas e após isso renomear para o nome da empresa dona do relatório.
-#4- repetir passo 3 até acabar os pdfs.
-
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
